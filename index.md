@@ -1,11 +1,11 @@
 ---
 layout: default
-title: KongZ Helm Charts
+title: Luiz Jr Helm Charts
 ---
 
 ## Installation
 
 ```console
-helm repo add kongz https://charts.kong-z.com
+helm repo add luizjr https://charts.luizjr.dev
 helm search repo graylog
 ```
